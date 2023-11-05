@@ -1,0 +1,12 @@
+body{
+    margin: 100px;
+    padding: 100px;
+    font-family:sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 2rem;
+}
+.value{
+    font-size: 6rem;
+}
